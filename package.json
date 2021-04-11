@@ -1,0 +1,21 @@
+{
+  "name": "sugi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "google-map-react": "^2.1.9",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "next": "10.1.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-live-clock": "^5.0.16",
+    "react-moment": "^1.1.1"
+  }
+}
